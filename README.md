@@ -1,2 +1,2 @@
 # Flow-List
-AI Powered Todo List
+Todo list using Pyhton and Flask.
